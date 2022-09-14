@@ -1,27 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#include "main.h"
+# include "main.h"
 
 /**
- * main - print putchar
- * Return: always 0
- */
+* main- task 0
+* Return: 0
+*/
+
 int main(void)
 {
 	_putchar('_');
@@ -36,18 +19,6 @@ int main(void)
 
 	return (0);
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
